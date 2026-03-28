@@ -1,0 +1,312 @@
+[
+  {
+    "id": "bbbp",
+    "name": "Beti Bachao Beti Padhao (BBBP)",
+    "level": "Central",
+    "ministry": "Ministry of Women and Child Development",
+    "description": "A national initiative aimed at improving child sex ratio and promoting education for girls through awareness campaigns and community programs.",
+    "eligibility": {
+      "gender": "Female",
+      "citizenship": "Indian",
+      "notes": "Implementation varies by district; mainly focused on girl child welfare and education awareness."
+    },
+    "benefits": [
+      "Awareness campaigns promoting girl child education",
+      "Support for education and social upliftment initiatives",
+      "Improved access to education programs"
+    ],
+    "applicationProcess": "No single national application form. Implemented through district/state programs.",
+    "officialLink": "https://wcd.nic.in/bbbp-schemes",
+    "image": "/images/schemes/bbbp.jpg",
+    "tags": ["girl-child", "school", "awareness", "education-support", "government-initiative"],
+    "filters": {
+      "ageRange": [0, 18],
+      "incomeGroup": "all",
+      "educationLevel": ["primary", "secondary"],
+      "category": ["general", "obc", "sc", "st", "ews"],
+      "area": ["rural", "urban"]
+    }
+  },
+  {
+    "id": "sukanya-samriddhi",
+    "name": "Sukanya Samriddhi Yojana (SSY)",
+    "level": "Central",
+    "ministry": "Ministry of Finance",
+    "description": "A savings scheme for the girl child that helps parents build funds for education and marriage.",
+    "eligibility": {
+      "gender": "Female",
+      "citizenship": "Indian",
+      "ageLimit": "Girl child below 10 years",
+      "notes": "Account can be opened by parents/guardians in Post Office or authorized banks."
+    },
+    "benefits": [
+      "High interest savings account",
+      "Tax benefits under Section 80C",
+      "Funds can be used for education expenses after age 18"
+    ],
+    "applicationProcess": "Apply at a Post Office or authorized bank with birth certificate and ID proof.",
+    "officialLink": "https://www.india.gov.in/spotlight/sukanya-samriddhi-yojana",
+    "image": "/images/schemes/ssy.jpg",
+    "tags": ["girl-child", "savings", "education-fund", "financial-support"],
+    "filters": {
+      "ageRange": [0, 10],
+      "incomeGroup": "all",
+      "educationLevel": ["primary", "secondary", "higher"],
+      "category": ["general", "obc", "sc", "st", "ews"],
+      "area": ["rural", "urban"]
+    }
+  },
+  {
+    "id": "nsigse",
+    "name": "National Scheme of Incentive to Girls for Secondary Education (NSIGSE)",
+    "level": "Central",
+    "ministry": "Ministry of Education",
+    "description": "Provides financial incentive to encourage girls to enroll and continue education at the secondary level, especially from disadvantaged backgrounds.",
+    "eligibility": {
+      "gender": "Female",
+      "citizenship": "Indian",
+      "education": "Class IX to X",
+      "categoryPreference": ["SC", "ST"],
+      "notes": "Girl must be enrolled in government/local body schools."
+    },
+    "benefits": [
+      "Cash incentive deposited in a bank account",
+      "Encourages continuation of secondary education"
+    ],
+    "applicationProcess": "Apply through school or state education department process.",
+    "officialLink": "https://www.education.gov.in",
+    "image": "/images/schemes/nsigse.jpg",
+    "tags": ["secondary", "low-income", "sc-st", "cash-incentive", "school-support"],
+    "filters": {
+      "ageRange": [14, 18],
+      "incomeGroup": "low",
+      "educationLevel": ["secondary"],
+      "category": ["sc", "st"],
+      "area": ["rural", "urban"]
+    }
+  },
+  {
+    "id": "cbse-udaan",
+    "name": "CBSE Udaan Scheme for Girls",
+    "level": "Central",
+    "ministry": "Ministry of Education (CBSE)",
+    "description": "A CBSE initiative to support girls in pursuing engineering and technical education through mentoring and learning resources.",
+    "eligibility": {
+      "gender": "Female",
+      "citizenship": "Indian",
+      "education": "Class XI (Science stream - PCM)",
+      "notes": "Students must be enrolled in CBSE-affiliated schools."
+    },
+    "benefits": [
+      "Free online learning resources",
+      "Study material and mentorship support",
+      "Preparation assistance for engineering entrance exams"
+    ],
+    "applicationProcess": "Apply through CBSE portal when application window opens.",
+    "officialLink": "https://cbse.nic.in",
+    "image": "/images/schemes/udaan.jpg",
+    "tags": ["engineering", "stem", "higher-secondary", "merit-based", "girls-only"],
+    "filters": {
+      "ageRange": [15, 19],
+      "incomeGroup": "all",
+      "educationLevel": ["higher-secondary"],
+      "category": ["general", "obc", "sc", "st", "ews"],
+      "area": ["rural", "urban"]
+    }
+  },
+  {
+    "id": "csss",
+    "name": "Central Sector Scheme of Scholarship for College and University Students",
+    "level": "Central",
+    "ministry": "Ministry of Education",
+    "description": "Scholarship scheme for meritorious students to support higher education at undergraduate and postgraduate levels.",
+    "eligibility": {
+      "citizenship": "Indian",
+      "education": "Passed Class XII with high merit",
+      "notes": "Merit-based scholarship with limited slots per state."
+    },
+    "benefits": [
+      "Annual scholarship amount for graduation/post-graduation",
+      "Encourages continuation of higher education"
+    ],
+    "applicationProcess": "Apply through National Scholarship Portal (NSP).",
+    "officialLink": "https://scholarships.gov.in",
+    "image": "/images/schemes/csss.jpg",
+    "tags": ["college", "merit-based", "undergraduate", "postgraduate", "education-support"],
+    "filters": {
+      "ageRange": [17, 25],
+      "incomeGroup": "all",
+      "educationLevel": ["undergraduate", "postgraduate"],
+      "category": ["general", "obc", "sc", "st", "ews"],
+      "area": ["rural", "urban"]
+    }
+  },
+  {
+    "id": "pragati",
+    "name": "PRAGATI Scholarship for Girl Students (AICTE)",
+    "level": "Central",
+    "ministry": "AICTE (Ministry of Education)",
+    "description": "Scholarship for girls pursuing technical education such as engineering, pharmacy, or diploma courses.",
+    "eligibility": {
+      "gender": "Female",
+      "citizenship": "Indian",
+      "education": "Technical course (Degree/Diploma)",
+      "notes": "Only for students admitted to AICTE-approved institutions."
+    },
+    "benefits": [
+      "Scholarship up to ₹50,000 per year",
+      "Covers tuition fees, books, laptop, and educational expenses"
+    ],
+    "applicationProcess": "Apply through National Scholarship Portal (NSP).",
+    "officialLink": "https://www.aicte-india.org/schemes/students-development-schemes/pragati-scholarship-scheme",
+    "image": "/images/schemes/pragati.jpg",
+    "tags": ["technical", "engineering", "diploma", "girls-only", "higher-education"],
+    "filters": {
+      "ageRange": [17, 30],
+      "incomeGroup": "low",
+      "educationLevel": ["diploma", "undergraduate"],
+      "category": ["general", "obc", "sc", "st", "ews"],
+      "area": ["rural", "urban"]
+    }
+  },
+  {
+    "id": "single-girl-child-pg",
+    "name": "Indira Gandhi PG Scholarship for Single Girl Child",
+    "level": "Central",
+    "ministry": "University Grants Commission (UGC)",
+    "description": "Supports postgraduate education for single girl child to encourage higher studies.",
+    "eligibility": {
+      "gender": "Female",
+      "citizenship": "Indian",
+      "education": "Postgraduate (first year)",
+      "specialCondition": "Single girl child"
+    },
+    "benefits": [
+      "Monthly scholarship support during PG studies",
+      "Encourages women participation in higher education"
+    ],
+    "applicationProcess": "Apply through UGC portal when applications open.",
+    "officialLink": "https://www.ugc.gov.in",
+    "image": "/images/schemes/ugc_single_girl.jpg",
+    "tags": ["postgraduate", "girls-only", "single-girl-child", "higher-education"],
+    "filters": {
+      "ageRange": [18, 30],
+      "incomeGroup": "all",
+      "educationLevel": ["postgraduate"],
+      "category": ["general", "obc", "sc", "st", "ews"],
+      "area": ["rural", "urban"]
+    }
+  },
+  {
+    "id": "inspire-she",
+    "name": "INSPIRE Scholarship for Higher Education (SHE)",
+    "level": "Central",
+    "ministry": "Department of Science & Technology (DST)",
+    "description": "Encourages talented students, including women, to pursue science courses at undergraduate level.",
+    "eligibility": {
+      "citizenship": "Indian",
+      "education": "BSc/BS/Integrated MSc in Natural Sciences",
+      "notes": "Merit-based; based on performance in Class XII or entrance exams."
+    },
+    "benefits": [
+      "Scholarship amount for higher education in science",
+      "Research mentorship and encouragement for STEM careers"
+    ],
+    "applicationProcess": "Apply through INSPIRE portal during application cycle.",
+    "officialLink": "https://online-inspire.gov.in",
+    "image": "/images/schemes/inspire.jpg",
+    "tags": ["science", "stem", "undergraduate", "merit-based", "research"],
+    "filters": {
+      "ageRange": [17, 25],
+      "incomeGroup": "all",
+      "educationLevel": ["undergraduate"],
+      "category": ["general", "obc", "sc", "st", "ews"],
+      "area": ["rural", "urban"]
+    }
+  },
+  {
+    "id": "mahila-samakhya",
+    "name": "Mahila Samakhya Programme",
+    "level": "Central",
+    "ministry": "Ministry of Education",
+    "description": "A programme focused on women's literacy and empowerment through education and awareness in rural areas.",
+    "eligibility": {
+      "gender": "Female",
+      "citizenship": "Indian",
+      "notes": "Primarily for rural and disadvantaged women and adolescent girls."
+    },
+    "benefits": [
+      "Literacy programs and awareness initiatives",
+      "Community empowerment groups",
+      "Support for continuing education"
+    ],
+    "applicationProcess": "Implemented through state government and local organizations.",
+    "officialLink": "https://www.education.gov.in",
+    "image": "/images/schemes/mahila_samakhya.jpg",
+    "tags": ["women-literacy", "adult-education", "rural", "awareness", "empowerment"],
+    "filters": {
+      "ageRange": [15, 60],
+      "incomeGroup": "low",
+      "educationLevel": ["literacy", "primary", "secondary"],
+      "category": ["general", "obc", "sc", "st", "ews"],
+      "area": ["rural"]
+    }
+  },
+  {
+    "id": "delhi-lakhpati-bitiya",
+    "name": "Lakhpati Bitiya Scheme (Delhi)",
+    "level": "State",
+    "state": "Delhi",
+    "ministry": "Delhi Government",
+    "description": "A state-level scheme providing savings support for girl children to promote education and future security.",
+    "eligibility": {
+      "gender": "Female",
+      "residency": "Delhi",
+      "notes": "Eligibility depends on Delhi government rules and income criteria."
+    },
+    "benefits": [
+      "Government deposits for girl child",
+      "Financial support for education and future needs"
+    ],
+    "applicationProcess": "Apply through Delhi government welfare portal or local offices.",
+    "officialLink": "https://delhi.gov.in",
+    "image": "/images/schemes/lakhpati_bitiya.jpg",
+    "tags": ["state-scheme", "girl-child", "education-fund", "delhi"],
+    "filters": {
+      "ageRange": [0, 18],
+      "incomeGroup": "low",
+      "educationLevel": ["primary", "secondary", "higher"],
+      "category": ["general", "obc", "sc", "st", "ews"],
+      "area": ["urban"]
+    }
+  },
+  {
+    "id": "savitribai-jharkhand",
+    "name": "Savitribai Phule Kishori Samriddhi Yojana (Jharkhand)",
+    "level": "State",
+    "state": "Jharkhand",
+    "ministry": "Jharkhand Government",
+    "description": "A scheme aimed at reducing dropout rates among girls by providing financial support for education from middle school to senior secondary.",
+    "eligibility": {
+      "gender": "Female",
+      "residency": "Jharkhand",
+      "education": "Class VIII to XII",
+      "notes": "Eligibility depends on Jharkhand government enrollment requirements."
+    },
+    "benefits": [
+      "Direct financial aid for education continuation",
+      "Support to reduce child marriage and dropout"
+    ],
+    "applicationProcess": "Apply through Jharkhand government education portal or school-based enrollment system.",
+    "officialLink": "https://jharkhand.gov.in",
+    "image": "/images/schemes/savitribai.jpg",
+    "tags": ["state-scheme", "secondary", "cash-support", "girls-only", "jharkhand"],
+    "filters": {
+      "ageRange": [13, 19],
+      "incomeGroup": "low",
+      "educationLevel": ["secondary", "higher-secondary"],
+      "category": ["general", "obc", "sc", "st", "ews"],
+      "area": ["rural", "urban"]
+    }
+  }
+]
